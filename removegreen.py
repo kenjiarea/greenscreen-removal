@@ -138,7 +138,7 @@ def chroma_keying(video_path, background_image_path):
 
 # Path to video and background image
 video_path = 'greenscreen-asteroid.mp4'
-background_image_path = 'treeBackground.jpg'
+background_image_path = 'background.jpg'
 
 # Run the chroma keying function
 chroma_keying(video_path, background_image_path)
